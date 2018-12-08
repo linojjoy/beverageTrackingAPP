@@ -1,13 +1,12 @@
--for giving information about birds all over the world
-- discuss about birds
-- algorithm to identify birds by the pic and might have a suggestion algorithm while entering or based on input
+-for giving information about Food & Beverages all over the world
+- discuss about Foods and where to find them
 
 Tech stack
 ___________
 
 
-Front end - asp mvc
-back end - asp web api
-database - sql server   
-authentication - all types 
+Front end - React & React Native
+back end - node js (Express)
+database - Mongodb
+authentication - android/ios
 css - not decided
