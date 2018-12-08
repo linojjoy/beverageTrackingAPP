@@ -8,6 +8,6 @@ _______________
 
 Front end - asp mvc
 back end - asp web api
-database - sql server
+database - sql server   
 authentication - all types 
 css - not decided
