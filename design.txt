@@ -3,7 +3,7 @@
 - algorithm to identify birds by the pic and might have a suggestion algorithm while entering or based on input
 
 Tech stack
-_______________
+___________
 
 
 Front end - asp mvc
