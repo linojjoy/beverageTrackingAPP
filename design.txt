@@ -2,7 +2,7 @@
 - discuss about Foods and where to find them
 
 Tech stack
-___________
+_______________
 
 
 Front end - React & React Native
