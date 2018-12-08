@@ -1,0 +1,13 @@
+-for giving information about birds all over the world
+- discuss about birds
+- algorithm to identify birds by the pic and might have a suggestion algorithm while entering or based on input
+
+Tech stack
+_______________
+
+
+Front end - asp mvc
+back end - asp web api
+database - sql server
+authentication - all types 
+css - not decided
